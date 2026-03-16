@@ -50,6 +50,7 @@ export default function Home() {
               <div className="mt-8 flex flex-wrap gap-3">
                 <a className="button-primary" href="#system">View system</a>
                 <a className="button-secondary" href="#next">Next steps</a>
+                <a className="button-secondary" href="/bauhaus">Open Bauhaus page</a>
               </div>
             </div>
           </div>
